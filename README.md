@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me👋
+
+Hi 👋, my name is Charles and I am a undergraduate student at Universidad Politecnica Salesiana
+
 
 <!--
 **csidevrik/csidevrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
